@@ -13,19 +13,22 @@ This API allows users to perform CRUD (Create, Read, Update, Delete) operations 
 
 ## Installation
 1. Clone the repository:
-   ```bash
+  
+  ```bash
     git clone https://github.com/FAHRIZTX/mlaku-mulu-apps.git
     cd mlaku-mulu-apps
   ```
 
 2. Install dependencies:
-   ```bash
+  
+  ```bash
     yarn
   ```
 
 3. Create a `.env` file in the root directory and set the required environment variables. Copy the provided `.env.example` as a reference.
 4. Run the application:
-   ```bash
+  
+  ```bash
     yarn start
   ```
 
