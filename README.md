@@ -39,4 +39,4 @@ This API allows users to perform CRUD (Create, Read, Update, Delete) operations 
 
 ## API Documentation
 
-The API documentation is available at [https://www.postman.com/pixtive/workspace/public-area/collection/12299566-9b1967d2-dcda-4742-9672-3c06453b4ba4?action=share&creator=12299566](https://www.postman.com/pixtive/workspace/public-area/collection/12299566-9b1967d2-dcda-4742-9672-3c06453b4ba4?action=share&creator=12299566).
+The API documentation is available at [https://www.postman.com/pixtive/workspace/public-area/collection/12299566-9b1967d2-dcda-4742-9672-3c06453b4ba4?action=share&creator=12299566&active-environment=12299566-d9d63ed8-5848-482c-b418-8e3e42d3578b](https://www.postman.com/pixtive/workspace/public-area/collection/12299566-9b1967d2-dcda-4742-9672-3c06453b4ba4?action=share&creator=12299566&active-environment=12299566-d9d63ed8-5848-482c-b418-8e3e42d3578b).
